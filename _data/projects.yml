@@ -28,4 +28,4 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * Spring Batch 기술을 활용하여, CSOT t3 translator 구현
-    * SKHynix M11 Dcol Server 로직 및 SQL 튜닝으로 처리 시간 단축 (70초 > 6초)
+    * SKHynix M11 Data Collection Server 로직 및 SQL 튜닝으로 처리 시간 단축 (70초 > 6초)
