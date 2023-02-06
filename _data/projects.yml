@@ -20,6 +20,7 @@
     * EAP / EIS Server 통신 프로토콜 Object Mapping 기술 적용
     * Java Annotation Processing 기술을 활용한 eclipse SQL 편집툴 적용
     * EIS Server Machine Type별 테스트 환경 구축
+    * Object meta data 아키텍쳐 설계 및 구축
 
 - layout: top-middle
   name: 대용량 데이터 처리 및 성능 개선

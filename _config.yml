@@ -4,7 +4,7 @@ repository: hjhbboy/hjhbboy.github.io
 
 # Personal info
 name: 황지환
-title: MES 백엔드 엔지니어
+title: 공장 자동화 엔지니어
 email: zhwan.hwang@gmail.com
 # website: http://zhwan.info/
 
@@ -22,12 +22,10 @@ email: zhwan.hwang@gmail.com
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring / Javascript 기반의 19년차 서버 백엔드 / 프론트엔드 개발자로
-  SKHynix, Samsung, BOE, CSOT 고객사에서 MES, EAP, SPC 등 시스템 개발 및 구축 등을 해왔습니다.<br/><br/>
-  점진적으로 성장가능한 시스템을 구축해야 한다는 생각에 테스트 코드 작성을 당연하게 생각하고, 코드 품질 및 개발 생산성 향상을 위한 환경을 구성하였습니다.
-  공장 자동화 부분에 있어, 올바른 Object Oriented Programming과 Domain Driven Design을 적용하고자 노력하고 있습니다.<br/><br/>
+  LCD, 반도체 분야의 공장 자동화 제품 개발 및 적용을 해 왔습니다. 총 경력은 19년차 이고, Project Leader의 역할은 2013년도 부터 진행해 왔습니다.<br/><br/>
+  점진적으로 성장가능한 시스템을 구축해야 한다는 생각에 테스트 시스템 구축을 당연하게 생각하고, 코드 품질 및 개발 생산성 향상을 위한 환경을 구성하였습니다.
+  또한, 올바른 Object Oriented Programming과 Domain Driven Design을 적용하고자 노력하고 있습니다.<br/><br/>
   현재는 개발팀장으로 제품 개발 설계/구현, 팀원과 팀의 성장 등을 주요 업무로 하고 있습니다.<br/><br/>
-
 
 # Projects Section
 # projects_title: Projects
