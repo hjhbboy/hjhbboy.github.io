@@ -15,12 +15,12 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * BMOT EIS 시스템 개편 (2019.03 ~ 2019.12)
-    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 적용 및 도메인 설계
-    * Spring Boot 기술을 활용한 tibrv message dispatcher, controller 적용
-    * EAP / EIS Server 통신 프로토콜 Object Mapping 기술 적용
-    * Java Annotation Processing 기술을 활용한 eclipse SQL 편집툴 적용
+    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 및 도메인 설계
+    * Spring Boot 기술을 활용한 tibrv message dispatcher, controller 아키텍쳐 설계
+    * EAP / EIS Server 통신 프로토콜 Object Mapping 아키텍쳐 설계
+    * Java Annotation Processing 기술을 활용한 eclipse기반 SQL 편집툴 개발
     * EIS Server Machine Type별 테스트 환경 구축
-    * Object meta data 아키텍쳐 설계 및 구축
+    * Object meta data 아키텍쳐 설계
 
 - layout: top-middle
   name: 대용량 데이터 처리 및 성능 개선
