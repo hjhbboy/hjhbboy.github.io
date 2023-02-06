@@ -15,10 +15,10 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * BMOT EIS 시스템 개편 (2019.03 ~ 2019.12)
-    * 관심사의 분리를 통한 MES EIS Server 분리 적용
+    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 적용
     * Spring Boot 기술을 활용한 tibrv message dispatcher, controller 적용
     * EAP / EIS Server 통신 프로토콜 Object Mapping 기술 적용
-    * Java Annotation Processing 기술을 활용한 SQL 편집툴 적용
+    * Java Annotation Processing 기술을 활용한 eclipse SQL 편집툴 적용
     * EIS Server Machine Type별 테스트 환경 구축
 
 - layout: top-middle
