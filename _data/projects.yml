@@ -15,7 +15,7 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * BMOT EIS 시스템 개편 (2019.03 ~ 2019.12)
-    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 적용
+    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 적용 및 도메인 설계
     * Spring Boot 기술을 활용한 tibrv message dispatcher, controller 적용
     * EAP / EIS Server 통신 프로토콜 Object Mapping 기술 적용
     * Java Annotation Processing 기술을 활용한 eclipse SQL 편집툴 적용
@@ -27,4 +27,4 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * Spring Batch 기술을 활용하여, CSOT t3 translator 구현
-    * SKHynix M11 Dcol Server 처리 시간 단축 (70초 > 6초)
+    * SKHynix M11 Dcol Server 로직 및 SQL 튜닝으로 처리 시간 단축 (70초 > 6초)
