@@ -1,7 +1,7 @@
 - layout: left
   name: ROS 제품개발
   job_title: 티와이즈
-  dates: 2022.10. ~ 현재
+  dates: 2022.07. ~ 현재
   quote: >
 
   description: | # this will include new lines to allow paragraphs
@@ -21,10 +21,10 @@
       * 설비 CIM 엔지니어 communication
       * Operation Scenario 정의 (23 타입)
       * EAP online test
-      * 특이점 : MES(EIS) 에서 시나리오 컨트롤, EAP는 메시지 변환만 하는 역할
-    * MES EIS server 구조개선
+      * 특이점 : MES(EIS)에서 시나리오 컨트롤, EAP는 메시지 변환만 처리
+    * MES EIS 구조개선
       * EIS 비즈니스 로직 구현 및 인스턴스 관리
-      * DTO 정의 (Non XML)
+      * Non XML 처리 방식으로 개발생산성 향상
 
 - layout: left
   name: CSOT t3 EDA/SPC 프로젝트
@@ -35,11 +35,9 @@
   description: | # this will include new lines to allow paragraphs
     * Project Leader
     * SPC 
-      * databsase modeling (Resouce, Spec, Runtime 으로 구분)
+      * databsase modeling (Resouce, Spec, Runtime)
       * 데이터 수집 정의를 메타데이터화 하여, 유연한 구조로 설계
-      * auto modeling 지원
-      * Offline SPC로서, OCAP(Out of Control Action Plan) 기능 없음
+      * SPC Engine 개발
     * translator
       * EDA/SPC ETL 처리
       * 입력 데이터 채널이 다양하여(tibrv, file, ftp), Spring Batch 기술로 해결
-

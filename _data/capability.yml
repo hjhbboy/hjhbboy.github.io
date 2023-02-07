@@ -16,9 +16,9 @@
   description: | # this will include new lines to allow paragraphs
     * BMOT EIS 서버 개편 (2019.03 ~ 2019.12)
     * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 및 도메인 설계
-    * Spring Boot 기술을 활용한 tibrv interface, Object Mapping 아키텍쳐 적용
-    * Java Annotation Processing 기술을 활용한 eclipse기반 SQL 편집툴 개발
-    * Machine Type별 테스트 환경 구축
+    * Spring Boot 기술을 활용한 tibrv interface, Non XML 아키텍쳐 적용
+    * Java Annotation Processing 기술을 활용한 SQL Query plugin 개발
+    * EIS Server 테스트 환경 구축
     * Object meta data 아키텍쳐 설계
 
 - layout: top-middle
