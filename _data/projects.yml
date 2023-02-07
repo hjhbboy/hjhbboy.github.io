@@ -1,31 +1,8 @@
 - layout: top-middle
-  name: 개발 파트 매니징
+  name: MES 프로젝트
   link: 
   quote: >
     2013.06. ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * 티와이즈 S/W 개발팀장 (2022.01 ~ 현재)
-    * 에임시스템 BMOT EAP Project Leader (2018.11 ~ 2019.12)
-    * 에임시스템 CSOT t3 EDA/SPC Project Leader (2015.03 ~ 2016.04)
-    * 에임시스템 YMS Project Leader (2013.06 ~ 2015.01)
-
-- layout: top-middle
-  name: 리팩토링/리엔지니어링/개발생산성
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * BMOT EIS 시스템 개편 (2019.03 ~ 2019.12)
-    * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 및 도메인 설계
-    * Spring Boot 기술을 활용한 tibrv message dispatcher, controller 아키텍쳐 설계
-    * EAP / EIS Server 통신 프로토콜 Object Mapping 아키텍쳐 설계
-    * Java Annotation Processing 기술을 활용한 eclipse기반 SQL 편집툴 개발
-    * EIS Server Machine Type별 테스트 환경 구축
-    * Object meta data 아키텍쳐 설계
-
-- layout: top-middle
-  name: 대용량 데이터 처리 및 성능 개선
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * Spring Batch 기술을 활용하여, CSOT t3 translator 구현
-    * SKHynix M11 Data Collection Server 로직 및 SQL 튜닝으로 처리 시간 단축 (70초 > 6초)
+    * hello
+    * world

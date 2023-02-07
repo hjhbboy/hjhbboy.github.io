@@ -1,0 +1,6 @@
+<div class="container projects-container">
+  <h3>{{ site.capability_title | default: "역량" }}</h3>
+  {% for capa in site.data.capability %}
+    {% include {{ capa.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=capa %}
+  {% endfor %}
+</div>

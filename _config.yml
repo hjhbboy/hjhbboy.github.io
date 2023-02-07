@@ -4,7 +4,7 @@ repository: hjhbboy/hjhbboy.github.io
 
 # Personal info
 name: 황지환
-title: 공장 자동화 엔지니어
+title: 공장 자동화 엔지니어 (19년차)
 email: zhwan.hwang@gmail.com
 # website: http://zhwan.info/
 
@@ -22,22 +22,10 @@ email: zhwan.hwang@gmail.com
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>LCD, 반도체 분야의 공장 자동화 제품 개발 및 적용</mark>을 해 왔습니다. 총 경력은 19년차 이고, Project Leader의 역할은 2013년도 부터 진행해 왔습니다.<br/><br/>
-  <mark>점진적으로 성장가능한 시스템 구축</mark>을해야 한다는 생각에 테스트 시스템 구축을 당연하게 생각하고, 코드 품질 및 개발 생산성 향상을 위한 환경을 구성하였습니다.
-  또한, 올바른 Object Oriented Programming과 Domain Driven Design을 적용하고자 노력하고 있습니다.<br/><br/>
+  <mark>LCD, 반도체 분야의 공장 자동화 제품 개발 및 적용</mark>을 해 왔습니다.<br/><br/>
+  <mark>공정엔지니어와 설비엔지니어에게 직접적으로 필요한 시스템, 점진적으로 성장가능한 시스템 구축</mark>을해야 한다는 생각에, 도메인을 이해하고 경험 하였으며, 유연한 아키텍쳐 설계, 개발, 코드 품질 및 개발 생산성 향상을 위해 노력하고 있습니다.
+  공장 자동화 개발에 있어, 올바른 Object Oriented Programming과 Domain Driven Design을 적용하고자 노력하고 있습니다.<br/><br/>
   현재는 <mark>개발팀장</mark>으로 제품 개발 설계/구현, <mark>팀원과 팀의 성장</mark> 등을 주요 업무로 하고 있습니다.<br/><br/>
-
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
 
 # Footer
 footer_show_references: true
