@@ -19,8 +19,8 @@
   description: | # this will include new lines to allow paragraphs
     * EAP Project Leader
       * 설비 CIM 엔지니어 communication
-      * Operation Scenario 정의 (23 타입)
-      * EAP online test
+      * Operation Scenario 정의
+      * online test
       * 특이점 : MES(EIS)에서 시나리오 컨트롤, EAP는 메시지 변환만 처리
     * MES EIS 구조개선
       * EIS 비즈니스 로직 구현 및 인스턴스 관리
