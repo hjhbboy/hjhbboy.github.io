@@ -35,9 +35,9 @@
   description: | # this will include new lines to allow paragraphs
     * Project Leader
     * SPC 
-      * databsase modeling (Resouce, Spec, Runtime)
+      * data modeling (Resouce, Spec, Runtime)
       * 데이터 수집 정의를 메타데이터화 하여, 유연한 구조로 설계
       * SPC Engine 개발
     * translator
       * EDA/SPC ETL 처리
-      * 입력 데이터 채널이 다양하여(tibrv, file, ftp), Spring Batch 기술로 해결
+      * 데이터 입력 채널이 다양하여(tibrv, file, ftp) 추상화 및 Spring Batch 기술로 해결
