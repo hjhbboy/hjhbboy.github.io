@@ -23,8 +23,10 @@
       * online test
       * 특이점 : MES(EIS)에서 시나리오 컨트롤, EAP는 메시지 변환만 처리
     * MES EIS 구조개선
-      * EIS 비즈니스 로직 구현 및 인스턴스 관리
-      * Non XML 처리 방식으로 개발생산성 향상
+      * 관심사의 분리를 통한 MES EIS Server 아키텍쳐 및 도메인 설계
+      * Spring Boot 기술을 활용한 tibrv interface, Non XML 아키텍쳐 적용
+      * Annotation Processor 를 활용한 SQL Query plugin 개발
+      * EIS Server 테스트 환경 구축
 
 - layout: left
   name: CSOT t3 EDA/SPC 프로젝트
