@@ -1,8 +1,45 @@
-- layout: top-middle
-  name: MES 프로젝트
-  link: 
+- layout: left
+  name: ROS 제품개발
+  job_title: 티와이즈
+  dates: 2022.10. ~ 현재
   quote: >
-    2013.06. ~ 현재
+
   description: | # this will include new lines to allow paragraphs
-    * hello
-    * world
+    * KVM(keyboard, video, mouse) 제품 개발
+      * KVM 제어 WEB platform
+      * 백엔드 / 프론트엔드 개발
+      * Touch monitor, CRT light pen 입력 장치 지원
+
+- layout: left
+  name: BMOT 프로젝트
+  job_title: 에임시스템
+  dates: 2018.11. ~ 2019.12
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * EAP Project Leader
+      * 설비 CIM 엔지니어 communication
+      * Operation Scenario 정의 (23 타입)
+      * EAP online test
+      * 특이점 : MES(EIS) 에서 시나리오 컨트롤, EAP는 메시지 변환만 하는 역할
+    * MES EIS server 구조개선
+      * EIS 비즈니스 로직 구현 및 인스턴스 관리
+      * DTO 정의 (Non XML)
+
+- layout: left
+  name: CSOT t3 EDA/SPC 프로젝트
+  job_title: 에임시스템
+  dates: 2015.03 ~ 2016.04
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * Project Leader
+    * SPC 
+      * databsase modeling (Resouce, Spec, Runtime 으로 구분)
+      * 데이터 수집 정의를 메타데이터화 하여, 유연한 구조로 설계
+      * auto modeling 지원
+      * Offline SPC로서, OCAP(Out of Control Action Plan) 기능 없음
+    * translator
+      * EDA/SPC ETL 처리
+      * 입력 데이터 채널이 다양하여(tibrv, file, ftp), Spring Batch 기술로 해결
+
